@@ -1,0 +1,19 @@
+{
+  "name": "cmake-vcpkg",
+  "version": "1.0.0",
+  "description": "Opinionated vcpkg integration for CMake",
+  "files": [
+    "*.cmake",
+    "triplets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holepunchto/cmake-vcpkg.git"
+  },
+  "author": "Holepunch",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/cmake-vcpkg/issues"
+  },
+  "homepage": "https://github.com/holepunchto/cmake-vcpkg#readme"
+}
